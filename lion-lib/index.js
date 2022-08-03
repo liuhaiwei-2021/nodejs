@@ -1,0 +1,1 @@
+module.exports.add = functionn(a,b){return a+b}
